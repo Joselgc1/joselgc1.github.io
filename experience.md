@@ -49,6 +49,16 @@ I served as the sole IT resource across Venezuela, Peru, and Ecuador, leading Od
 
 ---
 
+## ClarityX — Freelance Developer
+**USA — Remote | Jan 2023 – May 2023**
+
+I designed and implemented a Python-based ETL pipeline on Linux to automate the ingestion of `.parquet` files from Amazon S3 into PostgreSQL databases.
+
+- Improved scalability and efficiency for large-volume data processing.
+- Technologies: Python, PostgreSQL, Amazon S3, Apache Parquet, and Linux.
+
+---
+
 ## Alumbra / ToraxAI — AI Research Intern
 **Caracas, Venezuela | Feb 2021 – Jan 2022**
 

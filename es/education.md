@@ -26,6 +26,7 @@ title: Educación
 *Abr 2016 – Jul 2022*
 
 - GPA: **4.35 / 5.0**.
+- Vicepresidente y Presidente Interino del **Centro de Estudiantes de Ingeniería Electrónica (2018–2019)**.
 - Tesis de pregrado: **Red Neuronal Convolucional 3D para detección y segmentación de patologías respiratorias en tomografías de tórax**.
 
 ---
@@ -34,6 +35,8 @@ title: Educación
 
 - **Deeplearning.ai** — Building Multimodal Search and RAG; Fine-tuning Large Language Models; LangChain for LLM Application Development; Deep Learning Specialization; NLP Specialization.
 - **Anthropic** — Model Context Protocol: Introduction and Advanced Topics; Agent Skills and Subagents; Claude Code 101; Claude Code in Action.
+- **Stanford University / Coursera** — Machine Learning.
+- **Universidad Austral / Coursera** — Advanced Excel for Businesses.
 
 ---
 
@@ -46,8 +49,8 @@ title: Educación
 
 ## 🛠️ Habilidades Técnicas
 
-- **Programación:** Python, JavaScript, TypeScript, SQL.
+- **Programación:** Python, JavaScript, TypeScript, SQL, MATLAB, C.
 - **IA / ML:** PyTorch, TensorFlow, Keras, OpenCV, SciPy, LangChain, OpenAI API, Anthropic API, pipelines RAG, fine-tuning de LLMs, prompt engineering, LLMOps, MCP, NumPy, Pandas.
 - **Data Engineering:** PostgreSQL, MongoDB, Redis, pipelines ETL, Amazon S3, Apache Parquet.
-- **Frameworks:** Django, Flask, Node.js / Express, Angular, GraphQL, REST APIs.
-- **Infraestructura:** Docker, Git, Microsoft Azure, AWS, Keycloak, Celery.
+- **Frameworks:** Django, Flask, Node.js / Express, Angular, GraphQL, REST APIs, Odoo ERP, WordPress.
+- **Infraestructura y analítica:** Docker, Git, Microsoft Azure, AWS, Keycloak, Celery, Google Analytics, Google Search Console.

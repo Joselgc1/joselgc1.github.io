@@ -26,6 +26,7 @@ title: Education
 *Apr 2016 – Jul 2022*
 
 - GPA: **4.35 / 5.0**.
+- Vice President and Interim President of the **Electronics Engineering Student Council (2018–2019)**.
 - Undergraduate thesis: **3D Convolutional Neural Network for detecting and segmenting respiratory pathologies in thorax CT scans**.
 
 ---
@@ -34,6 +35,8 @@ title: Education
 
 - **Deeplearning.ai** — Building Multimodal Search and RAG; Fine-tuning Large Language Models; LangChain for LLM Application Development; Deep Learning Specialization; NLP Specialization.
 - **Anthropic** — Model Context Protocol: Introduction and Advanced Topics; Agent Skills and Subagents; Claude Code 101; Claude Code in Action.
+- **Stanford University / Coursera** — Machine Learning.
+- **Universidad Austral / Coursera** — Advanced Excel for Businesses.
 
 ---
 
@@ -46,8 +49,8 @@ title: Education
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Python, JavaScript, TypeScript, SQL.
+- **Programming:** Python, JavaScript, TypeScript, SQL, MATLAB, C.
 - **AI / ML:** PyTorch, TensorFlow, Keras, OpenCV, SciPy, LangChain, OpenAI API, Anthropic API, RAG pipelines, LLM fine-tuning, prompt engineering, LLMOps, MCP, NumPy, Pandas.
 - **Data Engineering:** PostgreSQL, MongoDB, Redis, ETL pipelines, Amazon S3, Apache Parquet.
-- **Frameworks:** Django, Flask, Node.js / Express, Angular, GraphQL, REST APIs.
-- **Infrastructure:** Docker, Git, Microsoft Azure, AWS, Keycloak, Celery.
+- **Frameworks:** Django, Flask, Node.js / Express, Angular, GraphQL, REST APIs, Odoo ERP, WordPress.
+- **Infrastructure and analytics:** Docker, Git, Microsoft Azure, AWS, Keycloak, Celery, Google Analytics, Google Search Console.

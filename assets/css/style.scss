@@ -30,8 +30,16 @@ header {
   width: 255px;
 }
 
-section {
+.wrapper > section {
   width: 760px;
+}
+
+.wrapper > section section,
+.wrapper > section nav {
+  float: none;
+  clear: both;
+  width: auto;
+  position: static;
 }
 
 h1,
@@ -146,7 +154,7 @@ a:focus {
 .quick-links a:hover,
 .quick-links a:focus {
   border-color: var(--accent);
-  transform: translateY(-1px);
+  color: var(--accent);
 }
 
 .button.primary:hover,
@@ -252,6 +260,8 @@ a:focus {
 
 .pub-badge {
   min-height: 42px;
+  max-width: 100%;
+  box-sizing: border-box;
   border-color: rgba(180, 83, 9, 0.28);
   color: var(--accent-warm);
   background: #fffaf3;
@@ -270,7 +280,7 @@ a:focus {
   }
 
   header,
-  section {
+  .wrapper > section {
     width: auto;
   }
 }

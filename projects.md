@@ -48,6 +48,26 @@ Built LLM-powered tools for a U.S.-based Spanish-language news outlet.
 
 ---
 
+## 🛒 Odoo ERP and E-Commerce Automation
+**Odoo, Python, XML, JavaScript, WordPress, AWS | NC Autopartes | Feb 2022 – Jun 2024**
+
+Led custom Odoo ERP module development and integrated WordPress e-commerce workflows with back-office operations.
+
+- Managed AWS servers and PostgreSQL production databases across Venezuela, Peru, and Ecuador.
+- Contributed to an 80% increase in online sales for 50+ staff users.
+
+---
+
+## 📊 ETL Pipeline for Data Management
+**Python, PostgreSQL, Amazon S3, Apache Parquet | ClarityX | Jan 2023 – May 2023**
+
+Implemented a Linux-based ETL pipeline to automate ingestion of `.parquet` files from Amazon S3 into PostgreSQL.
+
+- Reduced manual data-processing work and improved scalability for large-volume data workflows.
+- Built the pipeline around structured storage, repeatable ingestion, and database loading.
+
+---
+
 ## 🎓 Academic Publications in AI
 **University of Amsterdam | 2025**
 
