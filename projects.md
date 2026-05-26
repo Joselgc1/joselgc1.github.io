@@ -1,55 +1,67 @@
 ---
 layout: default
-title: Proyectos
+title: Projects
 ---
 
-<div style="float:right"><a href="/en/projects">English 🇬🇧</a></div>
+<div style="float:right"><a href="/es/projects">Español 🇪🇸</a></div>
 
-# Proyectos Destacados
+# Featured Projects
 
-## 🏥 Detección de Patologías Respiratorias en Tomografías de Tórax  
-**Python, Keras | Alumbra / ToraxAI | Feb 2021 – Ene 2022**  
-Desarrollo de un **modelo de Red Neuronal Convolucional 3D** para analizar tomografías de tórax y detectar patologías críticas, incluyendo **nódulos pulmonares y COVID-19**.  
-- Implementación de todo el pipeline: recolección de datos, preprocesamiento, entrenamiento y evaluación.  
-- Proyecto académico de tesis con **impacto directo en el ámbito de salud**.  
+## 🏥 Topology-Aware Medical Image Segmentation
+**Python, PyTorch, VNet, LSTMs | Amsterdam UMC | Jan 2026 – Jun 2026**
 
----
+Master's thesis research on small-bowel detection in 3D MRI for radiotherapy planning.
 
-## 🎓 Publicaciones Académicas en IA y Visión por Computador  
-**Universidad de Ámsterdam | 2025**  
-He participado como coautor en investigaciones publicadas en **arXiv** y **OpenReview**, enfocadas en:  
-- **Deepfake detection con imágenes semánticamente alineadas**.  
-- **Modelos de negociación multiagente con LLMs**.  
-Estas publicaciones consolidan mi experiencia investigadora en **IA aplicada y visión por computador**.  
+- Extending a stochastic centerline tracking framework with LSTM-based contextual patch modeling.
+- Evaluating structural correctness, connectivity, and anatomical plausibility on private cine-MRI clinical data.
 
 ---
 
-## 📰 Integración de IA en un Medio de Comunicación  
-**Flask, Azure, PostgreSQL | El Tiempo Latino | Jun 2023 – Sept 2024**  
-Lideré la creación de una **aplicación web con Flask en Azure** que incorporó **IA en flujos periodísticos**.  
-- *El Tiempo Latino* se convirtió en el **primer medio en español de EE.UU. en usar IA para creación de contenido**.  
-- Creación de **bases de datos PostgreSQL** y **dashboards dinámicos** para análisis en tiempo real de métricas y tendencias.  
+## 🌍 Production Platforms for International Organizations
+**Angular, TypeScript, Django, Node.js, PostgreSQL, MongoDB | Relief Applications | Jul 2025 – Present**
+
+Development of production web platforms used by **WHO**, **UNESCO WHC**, **UNESCO MAB**, and **ILO**.
+
+- Contributed to tools serving 100k+ users across 15+ countries.
+- Worked across frontend, backend, data, authentication, and deployment layers with GraphQL, Docker, and Keycloak.
 
 ---
 
-## 🌍 Soluciones Digitales para Naciones Unidas  
-**Angular, Django, AWS | Relief Applications | Jul 2025 – Actualidad**  
-Desarrollo de plataformas digitales en colaboración con **organismos internacionales** como la **OMS**, **UNESCO** y **OIT**.  
-- Diseño de sistemas de gestión de información y herramientas de análisis.  
-- Contribución a proyectos con impacto **global y social**.  
+## 🤖 Agentic Developer Workflows
+**Claude Code, OpenCode, MCP, Custom Agents | Relief Applications | 2025 – Present**
+
+Designed internal AI-assisted development workflows to improve delivery across multiple concurrent projects.
+
+- Built custom agents, commands, skills, and MCP integrations.
+- Applied agentic workflows to accelerate development and coordination across five concurrent projects.
 
 ---
 
-## 🛒 Automatización de Procesos en Odoo ERP  
-**Odoo (Python, XML, JS), AWS | NC Autopartes | Feb 2022 – Jun 2024**  
-Lideré el desarrollo de módulos personalizados en **Odoo ERP** y la integración con sistemas de comercio electrónico en **WordPress**.  
-- Administración de **servidores en AWS** para garantizar continuidad en operaciones en Venezuela, Perú y Ecuador.  
-- Optimización de bases de datos **PostgreSQL** y automatización de procesos críticos en logística y ventas.  
+## 📰 AI-Powered News Publishing Pipeline
+**Python, Azure, OpenAI API, PostgreSQL, WordPress API | El Tiempo Latino | Jun 2023 – Sept 2024**
+
+Built LLM-powered tools for a U.S.-based Spanish-language news outlet.
+
+- Integrated OpenAI's API and fine-tuned models to match editorial style.
+- Automated article generation, translation, rewriting, and publishing through WordPress.
+- Processed real-time news feeds using Bing News API, RSS, Google Analytics, and Google Search Console.
 
 ---
 
-## 📊 Pipeline ETL para Gestión de Datos  
-**Python, PostgreSQL, Amazon S3 | ClarityX | Ene 2023 – May 2023**  
-Implementación de un **pipeline ETL en Python sobre Linux** para automatizar la ingesta de archivos `.parquet` desde **Amazon S3** hacia **PostgreSQL**.  
-- Reducción significativa de tiempos de procesamiento de datos.  
-- Mejora en la escalabilidad y eficiencia en el manejo de grandes volúmenes de información.  
+## 🎓 Academic Publications in AI
+**University of Amsterdam | 2025**
+
+Co-authored academic work focused on applied AI and computer vision.
+
+- LLM multi-agent negotiation study: [arXiv:2502.16242](https://doi.org/10.48550/arXiv.2502.16242).
+- AI-generated image detection via semantically aligned images: [ICCV Workshop 2025](https://openaccess.thecvf.com/content/ICCV2025W/APAI/papers/Bandyopadhyay_The_Effect_of_Semantically_Aligned_Images_for_Deepfake_Detection_ICCVW_2025_paper.pdf).
+
+---
+
+## 🫁 3D CNN for Respiratory Pathology Detection
+**Python, Keras, TensorFlow, NumPy | Alumbra / ToraxAI | Feb 2021 – Jan 2022**
+
+Designed and trained a 3D CNN model for detection and segmentation of pulmonary nodules and COVID-19 in thorax CT scans.
+
+- Owned the full pipeline from data collection and model building to training and evaluation.
+- Undergraduate thesis project in medical imaging.

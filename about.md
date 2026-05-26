@@ -1,26 +1,24 @@
 ---
 layout: default
-title: Sobre mí
+title: About
 ---
 
-<div style="float:right"><a href="/en/about">English 🇬🇧</a></div>
+<div style="float:right"><a href="/es/about">Español 🇪🇸</a></div>
 
-# Sobre mí
+# About
 
-¡Hola! Soy Jose Luis Garcia, tengo 28 años y soy Ingeniero Electrónico graduado de la Universidad Simón Bolívar (USB) en Caracas, Venezuela. Actualmente curso una Maestría en Inteligencia Artificial en la Universidad de Ámsterdam (UvA) y cuento con más de cuatro años de experiencia profesional en el desarrollo de soluciones digitales e implementación de modelos de machine learning.
+Hello! My name is Jose Luis Garcia. I am an AI Engineer, Electronics Engineer, and Master's student in Artificial Intelligence at the University of Amsterdam. I have 4+ years of experience delivering AI integrations, agentic workflows, RAG pipelines, and full-stack software across frontend, backend, and AI layers.
 
-He trabajado en proyectos que integran IA aplicada, desarrollo web y análisis de datos, colaborando con organizaciones como la OMS, la UNESCO y la OIT, así como en medios de comunicación como El Tiempo Latino, donde lideré la adopción de inteligencia artificial en sus flujos de trabajo. También he diseñado modelos de deep learning para salud, destacando un CNN 3D para la detección de patologías respiratorias en tomografías de tórax.
+My recent work spans healthcare AI research, international-development platforms, and AI-powered publishing tools. At Amsterdam UMC, I am working on topology-aware deep learning for small-bowel segmentation in 3D MRI. At Relief Applications, I contribute to production web platforms used by WHO, UNESCO WHC, UNESCO MAB, and ILO, serving 100k+ users across 15+ countries. Previously, at El Tiempo Latino, I built LLM-powered tools for content generation, translation, rewriting, and WordPress publishing.
 
-Mis principales habilidades incluyen:
+My main skills include:
 
-- Lenguajes: Python, JavaScript, TypeScript, SQL, MATLAB y C.
+- Programming: Python, JavaScript, TypeScript, and SQL.
 
-- Frameworks y librerías: TensorFlow, PyTorch, Keras, Django, Flask, Angular.
+- AI / ML: PyTorch, TensorFlow, Keras, OpenCV, LangChain, OpenAI API, Anthropic API, RAG pipelines, LLM fine-tuning, prompt engineering, LLMOps, MCP, NumPy, Pandas, and SciPy.
 
-- Cloud y herramientas: Microsoft Azure, AWS, Odoo ERP, WordPress, Git, Google Analytics.
+- Backend, data, and infrastructure: Django, Flask, Node.js / Express, GraphQL, REST APIs, PostgreSQL, MongoDB, Redis, Docker, Microsoft Azure, AWS, Keycloak, Celery, ETL pipelines, Amazon S3, and Apache Parquet.
 
-Además, soy autor y coautor de publicaciones académicas en el área de IA y visión por computador, y he complementado mi formación con certificaciones en Deep Learning, NLP y Machine Learning.
+I am the author and co-author of academic work in AI, including research on LLM multi-agent negotiation and AI-generated image detection with semantically aligned images.
 
-Me apasiona el potencial de la inteligencia artificial para mejorar la vida de las personas, especialmente en el ámbito de la salud y el acceso a la información. Disfruto afrontar proyectos desafiantes, aprender rápido y trabajar tanto de manera independiente como en equipo.
-
-Actualmente estoy altamente motivado para mudarme a Madrid, con el objetivo de impulsar mi carrera, contribuir a proyectos de impacto y formar parte de su vibrante comunidad tecnológica. Hablo muy buen inglés y español de forma nativa.
+I am currently looking for an AI engineering role in the Netherlands where I can build reliable, production-ready systems that deliver measurable impact. I am a native Spanish speaker and have C2 English proficiency.
