@@ -5,6 +5,13 @@ title: Home
 
 <div class="language-switch"><a href="/es/">Español 🇪🇸</a></div>
 
+<nav class="quick-links" aria-label="Site sections">
+  <a href="/about">About</a>
+  <a href="/projects">Projects</a>
+  <a href="/experience">Experience</a>
+  <a href="/education">Education & Skills</a>
+</nav>
+
 <section class="hero-panel">
   <p class="eyebrow">AI Engineer · Master's in AI · Full-Stack Systems</p>
   <h1>Jose Luis García</h1>
@@ -94,10 +101,3 @@ title: Home
     <a class="pub-badge" href="https://openaccess.thecvf.com/content/ICCV2025W/APAI/papers/Bandyopadhyay_The_Effect_of_Semantically_Aligned_Images_for_Deepfake_Detection_ICCVW_2025_paper.pdf">ICCV Workshop · AI-generated image detection</a>
   </div>
 </section>
-
-<nav class="quick-links" aria-label="Site sections">
-  <a href="/about">About</a>
-  <a href="/projects">Projects</a>
-  <a href="/experience">Experience</a>
-  <a href="/education">Education & Skills</a>
-</nav>

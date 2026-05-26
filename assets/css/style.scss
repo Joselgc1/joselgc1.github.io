@@ -127,6 +127,10 @@ a:focus {
   gap: 10px;
 }
 
+.badge-row {
+  align-items: stretch;
+}
+
 .button,
 .pub-badge,
 .quick-links a {
@@ -259,18 +263,31 @@ a:focus {
 }
 
 .pub-badge {
+  flex: 1 1 280px;
   min-height: 42px;
   max-width: 100%;
   box-sizing: border-box;
+  line-height: 1.25;
   border-color: rgba(180, 83, 9, 0.28);
   color: var(--accent-warm);
   background: #fffaf3;
 }
 
+.pub-badge,
+.pub-badge:visited,
+.pub-badge:hover,
+.pub-badge:focus {
+  position: static;
+  transform: none !important;
+  font-weight: 700 !important;
+  border-width: 1px;
+}
+
 .quick-links {
-  margin-top: 28px;
-  padding-top: 20px;
-  border-top: 1px solid var(--line);
+  align-items: center;
+  margin: 0 0 18px;
+  padding: 0 0 16px;
+  border-bottom: 1px solid var(--line);
 }
 
 @media print, screen and (max-width: 1080px) {
